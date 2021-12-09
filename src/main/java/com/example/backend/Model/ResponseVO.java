@@ -8,7 +8,9 @@ public class ResponseVO {
 
     private ResponseVO(){};
 
-    private int code;
+    private Integer code;
+
+    private String message;
 
     private Object content;
 
@@ -30,26 +32,40 @@ public class ResponseVO {
 
     /**
      * OK 200
-     * @param content
+     * @param message
      * @return
      */
-    public static ResponseVO buildOK(Object content){
+    public static ResponseVO buildOK(String message){
         ResponseVO response = new ResponseVO();
-        response.setContent(content);
+        response.setMessage(message);
         response.setCode(0);
         return response;
     }
 
     /**
      * OK 200
-     * @param content
+     * @param message
      * @param code
      * @return
      */
-    public static ResponseVO buildOK(Object content,int code) {
+    public static ResponseVO buildOK(String message, Integer code) {
         ResponseVO response = new ResponseVO();
-        response.setContent(content);
+        response.setMessage(message);
         response.setCode(code);
+        return response;
+    }
+
+    /**
+     * OK 200
+     * @param message
+     * @param content
+     * @return
+     */
+    public static ResponseVO buildOK(String message, Object content) {
+        ResponseVO response = new ResponseVO();
+        response.setMessage(message);
+        response.setContent(content);
+        response.setCode(0);
         return response;
     }
 

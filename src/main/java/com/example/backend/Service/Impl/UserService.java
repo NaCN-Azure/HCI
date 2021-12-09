@@ -51,7 +51,7 @@ public class UserService implements IUserService {
 
         UserSession.loginUser(user);
 
-        return ResponseEntity.ok(ResponseVO.buildOK("登录成功"));
+        return ResponseEntity.ok(ResponseVO.buildOK("登录成功", user.getAvatar()));
     }
 
     @Override
@@ -85,12 +85,13 @@ public class UserService implements IUserService {
             }
 
             User user = new User();
-            user.setEmail(userVO.getEmail());
-            user.setUsername(userVO.getUsername());
-            user.setPassword(userVO.getPassword());
-            user.setUsername(userVO.getUsername());
-            user.setPhoneNumber(userVO.getPhoneNumber());
-            user.setVidList(userVO.getVidList());
+            user.setEmail(userVO.getEmail())
+                .setUsername(userVO.getUsername())
+                .setPassword(userVO.getPassword())
+                .setUsername(userVO.getUsername())
+                .setPhoneNumber(userVO.getPhoneNumber())
+                .setAvatar(userVO.getAvatar())
+                .setVidList(userVO.getVidList());
 
             userRepository.save(user);
         } finally {
