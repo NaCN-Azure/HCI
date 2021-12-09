@@ -81,7 +81,7 @@ public class UserService implements IUserService {
             List<User> list = userRepository.findByEmail(userVO.getEmail());
 
             if(list.size() > 0) {
-                ResponseVO.buildFailure("邮箱已注册");
+                return ResponseEntity.ok(ResponseVO.buildFailure("邮箱已注册"));
             }
 
             User user = new User();

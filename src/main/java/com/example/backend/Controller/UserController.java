@@ -16,12 +16,12 @@ public class UserController {
     private IUserService IUserService;
 
     @PostMapping("/login")
-    public ResponseEntity<ResponseVO> login(UserLoginForm userLoginForm){
+    public ResponseEntity<ResponseVO> login(@RequestBody UserLoginForm userLoginForm){
         return IUserService.login(userLoginForm);
     }
 
     @PostMapping("/register")
-    ResponseEntity<ResponseVO> register(User user){
+    ResponseEntity<ResponseVO> register(@RequestBody User user){
         return IUserService.register(user);
     }
 
