@@ -72,9 +72,6 @@ public class UserService implements IUserService {
         if(userVO.getPassword() == null) {
             return ResponseEntity.ok(ResponseVO.buildFailure("密码不可为空"));
         }
-        if(userVO.getPhoneNumber() == null){
-            return ResponseEntity.ok(ResponseVO.buildFailure("手机号不可为空"));
-        }
 
         buildUserLock.lock();
         try {
