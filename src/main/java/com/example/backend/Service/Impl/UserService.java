@@ -51,7 +51,7 @@ public class UserService implements IUserService {
 
         UserSession.loginUser(user);
 
-        return ResponseEntity.ok(ResponseVO.buildOK("登录成功", user.getAvatar()));
+        return ResponseEntity.ok(ResponseVO.buildOK("登录成功", user));
     }
 
     @Override
