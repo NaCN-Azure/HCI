@@ -3,6 +3,7 @@ package com.example.backend.Service.Impl;
 import com.example.backend.Model.ResponseVO;
 import com.example.backend.Model.User;
 import com.example.backend.Model.UserLoginForm;
+import com.example.backend.Model.UserRegisterForm;
 import com.example.backend.Repository.UserRepository;
 import com.example.backend.Service.IUserService;
 import com.example.backend.UserData.UserSession;
@@ -62,7 +63,7 @@ public class UserService implements IUserService {
     }
 
     @Override
-    public ResponseEntity<ResponseVO> register(User userVO) {
+    public ResponseEntity<ResponseVO> register(UserRegisterForm userVO) {
         if(userVO.getEmail() == null) {
             return ResponseEntity.ok(ResponseVO.buildFailure("邮箱不可为空"));
         }

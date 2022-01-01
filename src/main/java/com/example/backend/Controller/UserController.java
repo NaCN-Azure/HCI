@@ -3,6 +3,7 @@ package com.example.backend.Controller;
 import com.example.backend.Model.ResponseVO;
 import com.example.backend.Model.User;
 import com.example.backend.Model.UserLoginForm;
+import com.example.backend.Model.UserRegisterForm;
 import com.example.backend.Service.IUserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -21,7 +22,7 @@ public class UserController {
     }
 
     @PostMapping("/register")
-    ResponseEntity<ResponseVO> register(@RequestBody User user){
+    ResponseEntity<ResponseVO> register(@RequestBody UserRegisterForm user){
         return IUserService.register(user);
     }
 
