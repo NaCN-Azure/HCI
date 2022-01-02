@@ -89,7 +89,7 @@ public class UserService implements IUserService {
                 .setUsername(userVO.getUsername())
                 .setPhoneNumber(userVO.getPhoneNumber())
                 .setAvatar(userVO.getAvatar())
-                .setVidList(userVO.getVidList());
+                .setVipList(userVO.getVipList());
 
             userRepository.save(user);
         } finally {

@@ -4,6 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.Accessors;
+import org.bson.types.ObjectId;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.annotation.Transient;
 import org.springframework.data.mongodb.core.mapping.Document;
@@ -20,7 +21,7 @@ public class User {
     public static final String SEQUENCE_NAME = "users_sequence";
 
     @Id
-    private long id;
+    private ObjectId id;
 
     private String username;
 
@@ -32,6 +33,6 @@ public class User {
 
     private String avatar;
 
-    private List<Integer> vidList;
+    private List<String> vipList;
 
 }

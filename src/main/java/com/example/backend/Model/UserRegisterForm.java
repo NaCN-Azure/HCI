@@ -20,5 +20,5 @@ public class UserRegisterForm {
 
     private String avatar;
 
-    private List<Integer> vidList;
+    private List<String> vipList;
 }
