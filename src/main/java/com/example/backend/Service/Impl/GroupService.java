@@ -69,6 +69,7 @@ public class GroupService implements IGroupService {
             brandNode.put("type", "Brand");
             brandNode.put("color", brandColorList.get((int) (brand.getRid() - 1)));
             brandNode.put("shape", "downtriangle");
+            brandNode.put("imgsrc", brand.getImgsrc());
             nodeList.add(brandNode);
             HashMap<String, Object> brandLink = new HashMap<>();
             brandLink.put("sourceid", "group" + brand.getGid());
