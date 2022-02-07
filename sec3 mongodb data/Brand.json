@@ -1,0 +1,1191 @@
+[{
+  "_id": 1,
+  "gid": 1,
+  "name": "7天",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/8d4c6420fca62b60.png"
+},{
+  "_id": 2,
+  "gid": 1,
+  "name": "IU",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/d086d9ed56b08749.jpg"
+},{
+  "_id": 3,
+  "gid": 1,
+  "name": "派",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/023c2ca0c6082abf.png"
+},{
+  "_id": 4,
+  "gid": 1,
+  "name": "金广快捷",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/ea95484ac442124d.jpeg"
+},{
+  "_id": 5,
+  "gid": 1,
+  "name": "百时快捷",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/0843985f6b63cf89.jpg"
+},{
+  "_id": 6,
+  "gid": 1,
+  "name": "维也纳3好",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/1ab56d246a9967b5.jpeg"
+},{
+  "_id": 7,
+  "gid": 1,
+  "name": "锦江之星",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/445928b53d4758a4.jpeg"
+},{
+  "_id": 8,
+  "gid": 1,
+  "name": "锦江之星风尚",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/046183419e4640c5.jpeg"
+},{
+  "_id": 9,
+  "gid": 1,
+  "name": "锦江之星品尚",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/f5f5feb843c18d02.jpeg"
+},{
+  "_id": 10,
+  "gid": 1,
+  "name": "锦江都城",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/6e8beb5e89cf2971.jpeg"
+},{
+  "_id": 11,
+  "gid": 1,
+  "name": "白玉兰",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/06eea1d0f153a2ff.jpeg"
+},{
+  "_id": 12,
+  "gid": 1,
+  "name": "康铂",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/35525161a5671adb.jpeg"
+},{
+  "_id": 13,
+  "gid": 1,
+  "name": "凯里亚德",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/ff051a26b4545776.jpeg"
+},{
+  "_id": 14,
+  "gid": 1,
+  "name": "麗枫",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/38f4ae3f9ab0dfb9.jpeg"
+},{
+  "_id": 15,
+  "gid": 1,
+  "name": "喆啡",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/c5dc79d356d3762a.jpeg"
+},{
+  "_id": 16,
+  "gid": 1,
+  "name": "希岸",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/1c49860955d902c8.jpeg"
+},{
+  "_id": 17,
+  "gid": 1,
+  "name": "潮漫",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/ea251dfafd944aa39ab31e59dac95003.jpeg"
+},{
+  "_id": 18,
+  "gid": 1,
+  "name": "ZMAX",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/0c6b7d6abfa94ccda14fab59db7f3a3f.png"
+},{
+  "_id": 19,
+  "gid": 1,
+  "name": "非繁城品",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/41a37fd564f3442db343e13e7c6ef016.jpeg"
+},{
+  "_id": 20,
+  "gid": 1,
+  "name": "维也纳",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/73b216076b6aa708.jpeg"
+},{
+  "_id": 21,
+  "gid": 1,
+  "name": "维也纳国际",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/b6191bd5c0c74db99c5f6e2b6d501f54.jpeg"
+},{
+  "_id": 22,
+  "gid": 1,
+  "name": "维也纳智好",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/4235184efbec060d.jpeg"
+},{
+  "_id": 23,
+  "gid": 1,
+  "name": "维纳斯皇家",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/25d617cd80794d16a434c52636ca2d9d.jpeg"
+},{
+  "_id": 24,
+  "gid": 1,
+  "name": "维纳斯国际",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/0a1108559d8641ab99ac3f5d0f7e7482.png"
+},{
+  "_id": 25,
+  "gid": 1,
+  "name": "维纳斯度假村",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/5febf41a87f447859528dc3421fc3a32.jpeg"
+},{
+  "_id": 26,
+  "gid": 1,
+  "name": "好眠国际",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://ftp.bmp.ovh/imgs/2021/06/1a66e1364a7ce73a.jpeg"
+},{
+  "_id": 27,
+  "gid": 1,
+  "name": "欧暇地中海",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/045efabe592549d7891cd097b06cfa77.png"
+},{
+  "_id": 28,
+  "gid": 1,
+  "name": "丽怡",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/fe783a40c67f452789da96358532bcb1.jpg"
+},{
+  "_id": 29,
+  "gid": 1,
+  "name": "丽柏",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/e64dca510efa4008b4b37405b08c4a55.jpeg"
+},{
+  "_id": 30,
+  "gid": 1,
+  "name": "金熙",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/801b44ae6cbf4a71958f71256c97e8ca.jpg"
+},{
+  "_id": 31,
+  "gid": 1,
+  "name": "昆仑",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/d1c51c24035e41eea9f580c5c39bbbfe.jpg"
+},{
+  "_id": 32,
+  "gid": 1,
+  "name": "锦江",
+  "priority": "高",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/78570b0bbf8d42b9b36851dacf425f8e.jpeg"
+},{
+  "_id": 33,
+  "gid": 1,
+  "name": "暻阁",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/16491052ccf6405a993ae0d2742ad372.png"
+},{
+  "_id": 34,
+  "gid": 1,
+  "name": "郁锦香",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/8d95762fb495454dba75032041b19ec0.jpeg"
+},{
+  "_id": 35,
+  "gid": 1,
+  "name": "皇家金煦",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/f807944c56ea4994a2f56a9fc19dbd13.jpeg"
+},{
+  "_id": 36,
+  "gid": 1,
+  "name": "丽笙",
+  "priority": "中",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/a3bd1626286d411ab407c171edd134a6.jpeg"
+},{
+  "_id": 37,
+  "gid": 1,
+  "name": "丽筠",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/2d3584b393a84f0c81062f1e40285c87.jpg"
+},{
+  "_id": 38,
+  "gid": 1,
+  "name": "丽芮",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/a3badd78398f49a3bd5b1bcc2c06fa97.png"
+},{
+  "_id": 39,
+  "gid": 2,
+  "name": "汉庭",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/458c6c3aa85e49fd8905e37468927960.jpg"
+},{
+  "_id": 40,
+  "gid": 2,
+  "name": "汉庭优佳",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/2affae799bc5494bbf40bcbfa46fdb24.jpg"
+},{
+  "_id": 41,
+  "gid": 2,
+  "name": "你好",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/f8ac8b3c02634541b335c359166a9fed.png"
+},{
+  "_id": 42,
+  "gid": 2,
+  "name": "海友",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/a0179216288b47c59a797befa6be23e6.jpg"
+},{
+  "_id": 43,
+  "gid": 2,
+  "name": "怡莱",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/c34b87cd87ed46d8aa9dbcd87c050819.jpg"
+},{
+  "_id": 44,
+  "gid": 2,
+  "name": "宜必思",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/078f0e42eb8e4a7d8c88e9938b12f83f.jpg"
+},{
+  "_id": 45,
+  "gid": 2,
+  "name": "全季",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/f0c3a5aebb03420d82214be94507a5c5.jpg"
+},{
+  "_id": 46,
+  "gid": 2,
+  "name": "桔子",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/4cfc6cf2184145299b74dadd19e4dbda.png"
+},{
+  "_id": 47,
+  "gid": 2,
+  "name": "桔子水晶",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/bae7ade5050d4c4085330836b4bc9607.png"
+},{
+  "_id": 48,
+  "gid": 2,
+  "name": "星程",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/804fdda500a64aea9b050ea0260e500b.jpeg"
+},{
+  "_id": 49,
+  "gid": 2,
+  "name": "欢阁",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/fc356c80b51348289359cccda2f791fe.jpeg"
+},{
+  "_id": 50,
+  "gid": 2,
+  "name": "漫心",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/004e43591e3347fcb7b01ce7b77a17b7.jpeg"
+},{
+  "_id": 51,
+  "gid": 2,
+  "name": "美居",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/25275e83d8ee4a02b304b8c87d1f36b2.jpeg"
+},{
+  "_id": 52,
+  "gid": 2,
+  "name": "美仑",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/841466bc488c48feb34f9524a577e69c.png"
+},{
+  "_id": 53,
+  "gid": 2,
+  "name": "禧玥",
+  "priority": "中",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/1e76997b037947a4b3dafd6b88339286.jpg"
+},{
+  "_id": 54,
+  "gid": 2,
+  "name": "花间堂",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/c32e7b6bd54341bd8d6bd882825fdd26.jpeg"
+},{
+  "_id": 55,
+  "gid": 2,
+  "name": "诺富特",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/369a975afc0d4f02bfcae6e3413faf07.jpeg"
+},{
+  "_id": 56,
+  "gid": 2,
+  "name": "美爵",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/7df8f5f97b034a7881e37d71950c816f.jpeg"
+},{
+  "_id": 57,
+  "gid": 2,
+  "name": "索菲特",
+  "priority": "低",
+  "rid": 5,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/60a47978830d49f6990b857f1db05858.jpg"
+},{
+  "_id": 58,
+  "gid": 3,
+  "name": "铂尔曼",
+  "priority": "低",
+  "rid": 5,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/418bf5fa53bf4c3eb28c0420283f8e85.jpeg"
+},{
+  "_id": 59,
+  "gid": 3,
+  "name": "建国饭店",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/5780ff3fc9ca41f49e36183b2b7dd5f1.jpeg"
+},{
+  "_id": 60,
+  "gid": 3,
+  "name": "建国铂萃",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/28002e533a41478dbebdde3fd1837492.jpg"
+},{
+  "_id": 61,
+  "gid": 3,
+  "name": "京伦饭店",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/ff2ee30233b34d45b503ad143b8ff0d9.jpeg"
+},{
+  "_id": 62,
+  "gid": 3,
+  "name": "逸扉",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/7833f1bfcd884cfb81a59cba18662528.jpeg"
+},{
+  "_id": 63,
+  "gid": 3,
+  "name": "和颐",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/52b6f9bb436347f8be39f368183ee63c.jpeg"
+},{
+  "_id": 64,
+  "gid": 3,
+  "name": "璞隐",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/af8c711a556e4bd099588314b24968c7.jpeg"
+},{
+  "_id": 65,
+  "gid": 3,
+  "name": "扉缦",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/1422f0461d4a4cfc9bff858691ef0915.jpg"
+},{
+  "_id": 66,
+  "gid": 3,
+  "name": "万信",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/175247b15d4141f49f212daa9067e00e.jpeg"
+},{
+  "_id": 67,
+  "gid": 3,
+  "name": "如家精选",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/b4e986b88897414481cfd511e3c15a4f.jpg"
+},{
+  "_id": 68,
+  "gid": 3,
+  "name": "如家商旅",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/d2b781372a1347b39933b3cabc302d5f.jpeg"
+},{
+  "_id": 69,
+  "gid": 3,
+  "name": "艾扉",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/338020df33ca4db192d20e08c1b68b71.jpeg"
+},{
+  "_id": 70,
+  "gid": 3,
+  "name": "柏丽艾尚",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/22516d9ac1eb4e51a6285d258655094a.jpeg"
+},{
+  "_id": 71,
+  "gid": 3,
+  "name": "YUNIK",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/477a1ebab2504eedae42009895efd724.jpeg"
+},{
+  "_id": 72,
+  "gid": 3,
+  "name": "嘉虹",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/4d2a12bd41a246ba92c51ef7e4837eb0.jpg"
+},{
+  "_id": 73,
+  "gid": 3,
+  "name": "如家",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/3717a02869dc4fd5839bade900a782c0.jpeg"
+},{
+  "_id": 74,
+  "gid": 3,
+  "name": "莫泰",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/d421592e48ea49c2a9579100024cc63f.jpeg"
+},{
+  "_id": 75,
+  "gid": 3,
+  "name": "云",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/0cca422d776440cc8321d737907169c6.png"
+},{
+  "_id": 76,
+  "gid": 3,
+  "name": "驿居",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/2414731553504583845e18a9845e57f8.png"
+},{
+  "_id": 77,
+  "gid": 3,
+  "name": "云上四季",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/7ae0838ce94d4486bdce6e638a4624f7.jpeg"
+},{
+  "_id": 78,
+  "gid": 3,
+  "name": "雅克e家",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/1556ca98e7a24360a7896dbafe15e02b.jpg"
+},{
+  "_id": 79,
+  "gid": 3,
+  "name": "欣燕都",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/e02576613ebb42a2b9f87d87dd4fb851.jpeg"
+},{
+  "_id": 80,
+  "gid": 3,
+  "name": "华驿",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/770b20cfd43542d79e6bc477a6e8d85c.jpeg"
+},{
+  "_id": 81,
+  "gid": 4,
+  "name": "格林东方",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/12a7826998154e9981c7ea7dd6f3b141.jpeg"
+},{
+  "_id": 82,
+  "gid": 4,
+  "name": "格美",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/4c554a91706049d097c5a40ac6d76277.jpeg"
+},{
+  "_id": 83,
+  "gid": 4,
+  "name": "格雅",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/d74820d33cce42628e68f1f152cf1262.jpeg"
+},{
+  "_id": 84,
+  "gid": 4,
+  "name": "格菲",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/fd0392597c1343be9ec833e7a4e567fe.jpeg"
+},{
+  "_id": 85,
+  "gid": 4,
+  "name": "无眠",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/dc7f1f13a9d844258a33791e33379ff1.png"
+},{
+  "_id": 86,
+  "gid": 4,
+  "name": "格林豪泰",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/cde67dc411fe4cd18f9a6b07829b2d09.jpeg"
+},{
+  "_id": 87,
+  "gid": 4,
+  "name": "格盟",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/8ec1981ec27540d891b03fd2d7e7c210.jpeg"
+},{
+  "_id": 88,
+  "gid": 4,
+  "name": "青皮树",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/f5c47001e0344199a2e9996d2cf00536.jpeg"
+},{
+  "_id": 89,
+  "gid": 4,
+  "name": "贝壳",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/fcf56e832f23478986bcfab2e71f04dc.jpg"
+},{
+  "_id": 90,
+  "gid": 4,
+  "name": "雅阁",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/4b1735fb6dea462fa33d959ccedb2495.png"
+},{
+  "_id": 91,
+  "gid": 4,
+  "name": "雅阁璞邸",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/06fad0c3305f47beb26b0ddb13f6e50f.png"
+},{
+  "_id": 92,
+  "gid": 4,
+  "name": "雅阁度假",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/a7393e2001804ea4aa5038009f6be939.png"
+},{
+  "_id": 93,
+  "gid": 4,
+  "name": "澳斯特",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/404dc0ed96f44c31854079b13ca83f4e.png"
+},{
+  "_id": 94,
+  "gid": 5,
+  "name": "城市便捷",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/75cf476157f14fecab81f7fe94c54af0.jpeg"
+},{
+  "_id": 95,
+  "gid": 5,
+  "name": "精途",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/81768d9d07ee45359948eb6ca1ea72c3.jpeg"
+},{
+  "_id": 96,
+  "gid": 5,
+  "name": "怡程",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/7fba2cf4324c438093ddb507fe01c99a.jpeg"
+},{
+  "_id": 97,
+  "gid": 5,
+  "name": "宜尚",
+  "priority": "高",
+  "rid": 2,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/29e33e3068c3437ebc9e33db24330695.jpg"
+},{
+  "_id": 98,
+  "gid": 5,
+  "name": "柏曼",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/1c17440b0c8645a4baf28f2f120a9363.jpeg"
+},{
+  "_id": 99,
+  "gid": 5,
+  "name": "瑾程",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/ca5bbec1c0ef41e5b9369ef4f952ab1e.jpeg"
+},{
+  "_id": 100,
+  "gid": 5,
+  "name": "宜尚PLUS",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/96eefedcfd144a8b8896ff66f7cad592.jpeg"
+},{
+  "_id": 101,
+  "gid": 5,
+  "name": "锋态度",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/61a05774388c4ccdb33809d0b360d344.jpeg"
+},{
+  "_id": 102,
+  "gid": 5,
+  "name": "殿影",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/726eeed9c03b463e9a94aa18689dc186.jpg"
+},{
+  "_id": 103,
+  "gid": 5,
+  "name": "隐沫",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/db6b4c6a2ed84e4c8a24129c180090d1.jpeg"
+},{
+  "_id": 104,
+  "gid": 6,
+  "name": "AA",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/d68f401f0a3a4df6affa4e60aaafb662.png"
+},{
+  "_id": 105,
+  "gid": 6,
+  "name": "橙客",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/81ccc00a265d408696634883ee19641b.jpg"
+},{
+  "_id": 106,
+  "gid": 6,
+  "name": "骏怡",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/678aadefd90c412e80701485badbaa47.jpeg"
+},{
+  "_id": 107,
+  "gid": 6,
+  "name": "尚客优",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/9140dcd85571475dbdb1b1d96b4c1733.jpeg"
+},{
+  "_id": 108,
+  "gid": 6,
+  "name": "花美时",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/6b83350893cd4cb08c719fd0fe68ffe8.jpeg"
+},{
+  "_id": 109,
+  "gid": 6,
+  "name": "寻里",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/2c866e23a94a4eb884df68a8d0e8937f.jpg"
+},{
+  "_id": 110,
+  "gid": 6,
+  "name": "兰欧",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/d50d7459f20a4eab95c426b9c75bb987.jpeg"
+},{
+  "_id": 111,
+  "gid": 6,
+  "name": "假日美地",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/479dd4f70a4143b6a42b95afbc71bb07.png"
+},{
+  "_id": 112,
+  "gid": 6,
+  "name": "M Hotel",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/342e99e9e88d43f8a5c7d1b576085955.png"
+},{
+  "_id": 113,
+  "gid": 7,
+  "name": "含舍",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/01ca360254214d348099ac16a1f075c9.jpg"
+},{
+  "_id": 114,
+  "gid": 7,
+  "name": "单色",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/d553a2d1e117466593706e1ff8bb3ea1.png"
+},{
+  "_id": 115,
+  "gid": 7,
+  "name": "都市星联",
+  "priority": "低",
+  "rid": 1,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/ca8e730c5c4241ceb65b33e702c235d6.jpg"
+},{
+  "_id": 116,
+  "gid": 7,
+  "name": "都市118",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/1d0bbfb23fa84e8cae366868029ff28c.jpg"
+},{
+  "_id": 117,
+  "gid": 7,
+  "name": "都市花园",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/938688f3cfe54da88a1f1a1d975ea728.jpg"
+},{
+  "_id": 118,
+  "gid": 8,
+  "name": "亚朵",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/97778016ef99436c95a74236881ae114.png"
+},{
+  "_id": 119,
+  "gid": 8,
+  "name": "亚朵S",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/6930650023b944e4a9e794953aa236c3.jpeg"
+},{
+  "_id": 120,
+  "gid": 8,
+  "name": "亚朵X",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/97778016ef99436c95a74236881ae114.png"
+},{
+  "_id": 121,
+  "gid": 8,
+  "name": "轻居",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/ae95f4f417c0473ba50fea62e545d2ac.jpg"
+},{
+  "_id": 122,
+  "gid": 9,
+  "name": "开元名都",
+  "priority": "高",
+  "rid": 4,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/bc840f2bc171470b9bdaf0798602d82c.png"
+},{
+  "_id": 123,
+  "gid": 9,
+  "name": "开元森泊",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/04a32386c2fc49bbbe928a32eaf5ae13.png"
+},{
+  "_id": 124,
+  "gid": 9,
+  "name": "开元观堂",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/3fc9fe4d7acf4112856ee76930d45bc6.jpeg"
+},{
+  "_id": 125,
+  "gid": 9,
+  "name": "开元度假村",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/3ed256d2dc9045e783f853166d683f8a.png"
+},{
+  "_id": 126,
+  "gid": 9,
+  "name": "开元芳草地",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/c5cea407427f4bfd8c29d7aff8eb0e0c.png"
+},{
+  "_id": 127,
+  "gid": 9,
+  "name": "方外",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/2b7ade7ebbbf4739b5f8ec40b6e12bd7.jpeg"
+},{
+  "_id": 128,
+  "gid": 9,
+  "name": "开元名庭",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/84a41ab40c894ca39da2103bcb048553.jpg"
+},{
+  "_id": 129,
+  "gid": 9,
+  "name": "开元",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/92454a6307a6499a8d8aafea091eebcc.png"
+},{
+  "_id": 130,
+  "gid": 9,
+  "name": "开元颐居",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/cab5a11b7c7c429ab082abce21da3b79.jpeg"
+},{
+  "_id": 131,
+  "gid": 9,
+  "name": "开元美途",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/67c21de205ea460fb01b67bb83e29bfd.png"
+},{
+  "_id": 132,
+  "gid": 9,
+  "name": "阿缇客",
+  "priority": "低",
+  "rid": 2,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/0f032ff344ed4a55bd3f6d5726f68833.png"
+},{
+  "_id": 133,
+  "gid": 9,
+  "name": "开元曼居",
+  "priority": "中",
+  "rid": 2,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/f1e38e2cc5224318a0c66613e7f63537.png"
+},{
+  "_id": 134,
+  "gid": 10,
+  "name": "布丁",
+  "priority": "高",
+  "rid": 1,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/e95770faef904121abea3e86041798fe.jpeg"
+},{
+  "_id": 135,
+  "gid": 10,
+  "name": "智尚",
+  "priority": "中",
+  "rid": 1,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/f0271e5094284c51b0f29fdb08387a50.jpeg"
+},{
+  "_id": 136,
+  "gid": 11,
+  "name": "美豪",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/138200b7ec56453abae951a760c5916c.png"
+},{
+  "_id": 137,
+  "gid": 11,
+  "name": "雅致",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/24e7b6f6e2cf4c92860dba9ba1af84c9.png"
+},{
+  "_id": 138,
+  "gid": 11,
+  "name": "丽致",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/c8e4ee2ffaee4f0fb766a2338cbd8e28.jpg"
+},{
+  "_id": 139,
+  "gid": 11,
+  "name": "怡致",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/5a78d7cc06bb415dab1bcd329cbf310d.png"
+},{
+  "_id": 140,
+  "gid": 11,
+  "name": "美丽豪",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/96337ee3c25a4e65889c89d2cb3f2a92.png"
+},{
+  "_id": 141,
+  "gid": 11,
+  "name": "美嘉豪",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/7bd8d7cd95f743f1945af7b703f78333.png"
+},{
+  "_id": 142,
+  "gid": 12,
+  "name": "丽思卡尔顿",
+  "priority": "高",
+  "rid": 5,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/d2e1ce2699934b37a35ae6494f153a34.jpeg"
+},{
+  "_id": 143,
+  "gid": 12,
+  "name": "瑞吉",
+  "priority": "低",
+  "rid": 5,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/5322b14836e148ccb7591d5f0ce4dd7e.jpeg"
+},{
+  "_id": 144,
+  "gid": 12,
+  "name": "JW万豪",
+  "priority": "高",
+  "rid": 5,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/c280f914edfa451796b22a98e2ce24ba.png"
+},{
+  "_id": 145,
+  "gid": 12,
+  "name": "W",
+  "priority": "高",
+  "rid": 5,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/1a5fabb708954c42bc7ee7a6c1d012e7.jpeg"
+},{
+  "_id": 146,
+  "gid": 12,
+  "name": "艾迪逊",
+  "priority": "中",
+  "rid": 5,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/c9f036a3c79044e38a1965c39faae64d.png"
+},{
+  "_id": 147,
+  "gid": 12,
+  "name": "万豪",
+  "priority": "高",
+  "rid": 4,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/9a7376f7e344472ca7e64124ef739409.jpeg"
+},{
+  "_id": 148,
+  "gid": 12,
+  "name": "喜来登",
+  "priority": "高",
+  "rid": 4,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/bc3cd0f01cb94d85b221622fef8eda7e.jpeg"
+},{
+  "_id": 149,
+  "gid": 12,
+  "name": "德尔塔",
+  "priority": "中",
+  "rid": 4,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/e5cb0e78e6774d77bde7fda15d880190.jpeg"
+},{
+  "_id": 150,
+  "gid": 12,
+  "name": "艾美",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/a659a2759326405cb2b933f5e182bc87.jpeg"
+},{
+  "_id": 151,
+  "gid": 12,
+  "name": "威斯汀",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/24e7b6f6e2cf4c92860dba9ba1af84c9.png"
+},{
+  "_id": 152,
+  "gid": 12,
+  "name": "万丽",
+  "priority": "中",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/4b5fcc5240894e34961074dc33f01ec9.png"
+},{
+  "_id": 153,
+  "gid": 12,
+  "name": "万怡",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/fd5c9735e3624f02a7b95dba41b8f7b0.png"
+},{
+  "_id": 154,
+  "gid": 12,
+  "name": "福朋喜来登",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/79544d2ee45a4c1cb672e9ffa5279e86.png"
+},{
+  "_id": 155,
+  "gid": 12,
+  "name": "万枫",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/4142fda18c4c4e17ba0b0376cc1e14e8.png"
+},{
+  "_id": 156,
+  "gid": 12,
+  "name": "雅乐轩",
+  "priority": "低",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/17c812b25fa1469b8c6e763baae80c70.png"
+},{
+  "_id": 157,
+  "gid": 13,
+  "name": "华尔道夫",
+  "priority": "高",
+  "rid": 5,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/78274d384c584ed4b3cdd8c728995429.png"
+},{
+  "_id": 158,
+  "gid": 13,
+  "name": "康莱德",
+  "priority": "低",
+  "rid": 5,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/890c89c6fb974ba9bfab5663bf199ee3.png"
+},{
+  "_id": 159,
+  "gid": 13,
+  "name": "希尔顿嘉悦里",
+  "priority": "中",
+  "rid": 4,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/c3266a3c739042918eb1d158bba28e07.png"
+},{
+  "_id": 160,
+  "gid": 13,
+  "name": "希尔顿",
+  "priority": "高",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/1384dee47a5d434ead352956bfcaa54b.png"
+},{
+  "_id": 161,
+  "gid": 13,
+  "name": "希尔顿格芮",
+  "priority": "中",
+  "rid": 4,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/e06e6ea39585430abe14ae2808e21dc7.png"
+},{
+  "_id": 162,
+  "gid": 13,
+  "name": "希尔顿欢朋",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/f3ca311581e847bfbbbf49a7a14fba04.png"
+},{
+  "_id": 163,
+  "gid": 13,
+  "name": "希尔顿逸林",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/55d52a93c2ff41089063e15de12746ac.png"
+},{
+  "_id": 164,
+  "gid": 13,
+  "name": "希尔顿花园",
+  "priority": "中",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/15c1bfb1592b48dcbaa78d3b44ff9170.png"
+},{
+  "_id": 165,
+  "gid": 14,
+  "name": "洲际",
+  "priority": "高",
+  "rid": 5,
+  "imgsrc": "https://p26.toutiaoimg.com/origin/pgc-image/2bed42a195964a26ac3a2f0d16e58b73.png"
+},{
+  "_id": 166,
+  "gid": 14,
+  "name": "假日",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p5.toutiaoimg.com/origin/pgc-image/e20cb31928f24cc89432120c17597293.png"
+},{
+  "_id": 167,
+  "gid": 14,
+  "name": "皇冠假日",
+  "priority": "高",
+  "rid": 4,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/b870773dddf94bfd8d47a6b97ef9b9a0.png"
+},{
+  "_id": 168,
+  "gid": 14,
+  "name": "智选假日",
+  "priority": "高",
+  "rid": 3,
+  "imgsrc": "https://p6.toutiaoimg.com/origin/pgc-image/119ad396348749f7a3582e0324ed730a.png"
+},{
+  "_id": 169,
+  "gid": 14,
+  "name": "英迪格",
+  "priority": "低",
+  "rid": 4,
+  "imgsrc": "https://p9.toutiaoimg.com/origin/pgc-image/f8813bc6409141968a17c3ee1c7932f2.png"
+},{
+  "_id": 170,
+  "gid": 14,
+  "name": "丽晶",
+  "priority": "高",
+  "rid": 5,
+  "imgsrc": "https://p3.toutiaoimg.com/origin/pgc-image/a635995d9471468791e7a53a8ac52e4a.png"
+}]

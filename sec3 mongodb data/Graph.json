@@ -1,0 +1,6772 @@
+[{
+  "_id": 38,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 984.6085992792662,
+      "y": 496.71337411356706,
+      "vy": -0.02657456381568522,
+      "vx": -0.07962998632213404
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 668.3972795232206,
+      "y": 409.1630676783968,
+      "vy": -0.02539631478504218,
+      "vx": -0.08387179562047946
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 530.8244539774845,
+      "y": 352.61303619622,
+      "vy": -0.02481151025318362,
+      "vx": -0.0857631260270017
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 321.0096211151164,
+      "fy": 231.6453212933007,
+      "r": 30,
+      "index": 3,
+      "x": 321.0096211151164,
+      "y": 231.6453212933007,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 1153.3850705409673,
+      "y": 515.5103237996111,
+      "vy": -0.02579497219266544,
+      "vx": -0.07504215222165966
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 1102.8595183177433,
+      "y": 584.8273137274472,
+      "vy": -0.02474024655695913,
+      "vx": -0.07497728004155263
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 772.6789564333329,
+      "y": 428.8110295413795,
+      "vy": -0.027283617621598113,
+      "vx": -0.08141327797621421
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 605.4767971443848,
+      "y": 206.4486529795103,
+      "vy": -0.028778106009205252,
+      "vx": -0.09292250358602938
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 772.0083164241747,
+      "y": 194.0299974346229,
+      "vy": -0.026682530466566465,
+      "vx": -0.08988837200828179
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 39,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": 322.7027957091386,
+      "fy": 180.59917506928622,
+      "r": 30,
+      "index": 0,
+      "x": 322.7027957091386,
+      "y": 180.59917506928622,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 1011.6656056097189,
+      "y": 348.35907280352,
+      "vy": -0.06061715997721557,
+      "vx": -0.12739503248902145
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 1151.9070696901153,
+      "y": 306.5124629272077,
+      "vy": -0.061594462467814526,
+      "vx": -0.12644639762169493
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 884.0096211151164,
+      "fy": 129.6453212933007,
+      "r": 30,
+      "index": 3,
+      "x": 884.0096211151164,
+      "y": 129.6453212933007,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 502.0927100990682,
+      "y": 245.15586221281862,
+      "vy": -0.0632337990248331,
+      "vx": -0.1448180894207745
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 443.4016474200157,
+      "y": 297.5171086857871,
+      "vy": -0.0659757451167605,
+      "vx": -0.1460416211162159
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 846.7287212344127,
+      "y": 323.18660052942136,
+      "vy": -0.059566397465035684,
+      "vx": -0.1319722577483385
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 1025.0369413429157,
+      "y": 147.75745264351522,
+      "vy": -0.061175466773281346,
+      "vx": -0.14220054294172943
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": 723.1934770550738,
+      "fy": 79.89365765669493,
+      "r": 30,
+      "index": 8,
+      "x": 723.1934770550738,
+      "y": 79.89365765669493,
+      "vy": 0,
+      "vx": 0
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 40,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 41,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 42,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 52,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 53,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 54,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 83,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": -773.9136897755548,
+      "y": 312.0747639236214,
+      "vy": -0.00025480043261432805,
+      "vx": -0.006067789731045809
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 770.2896091542275,
+      "y": -1384.5960242936637,
+      "vy": -0.008604507538752342,
+      "vx": 0.001153496984443169
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 1375.8508835299635,
+      "y": 549.8640035621153,
+      "vy": 0.0014899745971312512,
+      "vx": 0.005792072517580397
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": -191.1727231248983,
+      "y": 1604.0348428049324,
+      "vy": 0.007041032558322776,
+      "vx": -0.004867014712855615
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 1580.4870318092035,
+      "y": 1847.0528238382853,
+      "vy": 0.006925937231615892,
+      "vx": 0.004616878706013984
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 701.1285499673355,
+      "y": 1657.220979751113,
+      "vy": 0.0053731495857514055,
+      "vx": 0.00043007308757552024
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 860.2266365053581,
+      "y": -249.09678289273464,
+      "vy": -0.003447168577422643,
+      "vx": 0.003052803447459671
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 1718.009517497122,
+      "y": 1415.066484956049,
+      "vy": 0.0017675183403664458,
+      "vx": 0.007226586053123983
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 389.684440700206,
+      "y": -577.9194706318787,
+      "vy": -0.006313882059164067,
+      "vx": -0.004655873498937765
+    },
+    {
+      "name": "梁思成",
+      "uuid": -1,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 9,
+      "x": -801.3858000384881,
+      "y": 239.76375105455674,
+      "vy": -0.0006358714144598376,
+      "vx": -0.006659849162348257
+    },
+    {
+      "name": "梁思成",
+      "uuid": -2,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 10,
+      "x": 1316.9703317693088,
+      "y": 596.093024586231,
+      "vy": 0.0016496368968153205,
+      "vx": 0.005256987843965123
+    },
+    {
+      "name": "林徽因",
+      "uuid": -3,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 11,
+      "x": 1420.76404133194,
+      "y": 490.1179254598293,
+      "vy": 0.0010954794825641441,
+      "vx": 0.006432738447936349
+    },
+    {
+      "name": "林徽因",
+      "uuid": -4,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 12,
+      "x": 842.336617406924,
+      "y": -1370.292898654423,
+      "vy": -0.008490940013452656,
+      "vx": 0.0017471529915360528
+    },
+    {
+      "name": "梁思成",
+      "uuid": -5,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 13,
+      "x": -116.98267880111226,
+      "y": 1591.4830507290926,
+      "vy": 0.007483970854485154,
+      "vx": -0.004269827096967368
+    },
+    {
+      "name": "林徽因",
+      "uuid": -6,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 14,
+      "x": -825.972111124204,
+      "y": 368.1676591923849,
+      "vy": 0.000721765640976875,
+      "vx": -0.005930499833330153
+    },
+    {
+      "name": "陆小曼",
+      "uuid": -7,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 15,
+      "x": -697.4330397823841,
+      "y": 306.72396509727366,
+      "vy": 0.0008628053553668375,
+      "vx": -0.005244795985970512
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -8,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 16,
+      "x": 1630.0696801192728,
+      "y": 1900.9263518442601,
+      "vy": 0.007238749325327592,
+      "vx": 0.005154692883471277
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -9,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 17,
+      "x": 692.8199989620811,
+      "y": 1730.1424072422674,
+      "vy": 0.0059728265300879055,
+      "vx": 0.00037546992766277263
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -10,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 18,
+      "x": 863.6060482972398,
+      "y": -171.8278062477448,
+      "vy": -0.002891908959057649,
+      "vx": 0.003446919002597341
+    },
+    {
+      "name": "梁思成",
+      "uuid": -11,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 19,
+      "x": 925.7244664747776,
+      "y": -288.89685083315015,
+      "vy": -0.004358410954639631,
+      "vx": 0.0032020870541554624
+    },
+    {
+      "name": "林徽因",
+      "uuid": -12,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 20,
+      "x": 784.5045545601998,
+      "y": -261.7411787588359,
+      "vy": -0.004490066472659806,
+      "vx": 0.00248850153597731
+    },
+    {
+      "name": "清华大学",
+      "uuid": -13,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 21,
+      "x": 351.0507926866277,
+      "y": -639.9308032500062,
+      "vy": -0.006948586089498681,
+      "vx": -0.004762042290799173
+    },
+    {
+      "name": "清华大学",
+      "uuid": -14,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 22,
+      "x": -247.16096458003122,
+      "y": 1553.8279756108227,
+      "vy": 0.007007386514138768,
+      "vx": -0.00572522305472489
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": -1,
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -2,
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -3,
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": -4,
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -5,
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -6,
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -7,
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": -8,
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": -9,
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -10,
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -11,
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -12,
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": -13,
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -14,
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 84,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 380.0191755361898,
+      "y": 513.8929078915166,
+      "vy": 0.004073756020067036,
+      "vx": -0.0014760473760381863
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 479.18949145665056,
+      "y": 522.360899243739,
+      "vy": 0.0005252806154883426,
+      "vx": 0.0009537265071115875
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 565.8522908178268,
+      "y": 557.8234393965048,
+      "vy": 0.000007805227028798849,
+      "vx": 0.0022595336797977357
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 538.0096523542535,
+      "y": 478.849159205388,
+      "vy": -0.0003166666543923582,
+      "vx": -0.0008250418224181476
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 294.7823642026031,
+      "y": 502.1299920984798,
+      "vy": 0.010141090461892582,
+      "vx": -0.003292277478555159
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 349.93915618714425,
+      "y": 436.87783461784596,
+      "vy": 0.004824907202933504,
+      "vx": -0.006061716092034437
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 460.522087119081,
+      "y": 583.6555450514779,
+      "vy": -0.00004237376360917561,
+      "vx": -0.0032950607156730792
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 619.0676068041515,
+      "y": 403.1882747354964,
+      "vy": 0.0005976449631632251,
+      "vx": -0.0004887220214965061
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 668.609409714865,
+      "y": 332.495311459401,
+      "vy": 0.0035522557772872908,
+      "vx": 0.003459798084833641
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 85,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 574.0659932689757,
+      "y": 612.342814049627,
+      "vy": -0.00776750872194864,
+      "vx": -0.004993288051782396
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 552.298971068286,
+      "y": 498.78069093897653,
+      "vy": -0.0063818781797725715,
+      "vx": -0.006480734106503592
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 530.3698909786142,
+      "y": 421.3721421495895,
+      "vy": -0.0077892976842355716,
+      "vx": -0.0046250306043149475
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 444.91036144051316,
+      "y": 444.99939675313755,
+      "vy": -0.007572183392357391,
+      "vx": -0.005434191566784491
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 639.0900849497597,
+      "y": 676.8214128505151,
+      "vy": -0.009984827769801434,
+      "vx": -0.0016508739000294852
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 564.1608003865068,
+      "y": 696.8579989486566,
+      "vy": -0.006224568870687313,
+      "vx": -0.0018177112695739218
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 493.6969657877705,
+      "y": 554.9955862652679,
+      "vy": -0.006065222783839792,
+      "vx": -0.007102110679973447
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": 287.0676068041515,
+      "fy": 247.1882747354964,
+      "r": 30,
+      "index": 7,
+      "x": 287.0676068041515,
+      "y": 247.1882747354964,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 270.29503469204303,
+      "y": 177.8229057346752,
+      "vy": -0.00894774751018269,
+      "vx": -0.007006703768299939
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 86,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 1266.6797381711922,
+      "y": -331.2621102012741,
+      "vy": -0.0069185327516867795,
+      "vx": 0.007320699450785388
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": -335.01551261953415,
+      "y": -802.0160110831109,
+      "vy": -0.007758280727877209,
+      "vx": -0.005489252290751307
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 456.9964942458548,
+      "y": 1609.1211658196132,
+      "vy": 0.008669705647879961,
+      "vx": -0.00030714390037563344
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 341.7537117965497,
+      "y": 153.96930925005242,
+      "vy": -0.0037203200890093845,
+      "vx": -0.0018866990029670905
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 994.5772761398699,
+      "y": 2336.5806345987276,
+      "vy": 0.007702865457800327,
+      "vx": 0.0031262562586089923
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": -676.7273913486727,
+      "y": 530.3866257745643,
+      "vy": 0.0015516199629631673,
+      "vx": -0.009330174223547314
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 773.0411915118185,
+      "y": 540.4517280944509,
+      "vy": 0.005818419955883828,
+      "vx": 0.008013132627095685
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": 287.0676068041515,
+      "fy": 247.1882747354964,
+      "r": 30,
+      "index": 7,
+      "x": 287.0676068041515,
+      "y": 247.1882747354964,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 197.153197187588,
+      "y": 228.51636847489152,
+      "vy": 0.0010974570827090098,
+      "vx": -0.012522963745218395
+    },
+    {
+      "name": "梁思成",
+      "uuid": -1,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 9,
+      "x": 1191.2231284496727,
+      "y": -345.1417456786619,
+      "vy": -0.008265822494361245,
+      "vx": 0.007023078290361818
+    },
+    {
+      "name": "梁思成",
+      "uuid": -2,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 10,
+      "x": 510.1387193399101,
+      "y": 1556.275803321931,
+      "vy": 0.008728137800530989,
+      "vx": 0.00040701732069135587
+    },
+    {
+      "name": "林徽因",
+      "uuid": -3,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 11,
+      "x": 386.2918158394977,
+      "y": 1634.0585211126738,
+      "vy": 0.008745057482627877,
+      "vx": -0.000988136931922413
+    },
+    {
+      "name": "林徽因",
+      "uuid": -4,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 12,
+      "x": -393.83878835904716,
+      "y": -757.9217226855496,
+      "vy": -0.007487608375732475,
+      "vx": -0.005846444547681982
+    },
+    {
+      "name": "梁思成",
+      "uuid": -5,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 13,
+      "x": 399.81623597955684,
+      "y": 98.71890055722209,
+      "vy": -0.008638601065729633,
+      "vx": -0.002345936687805816
+    },
+    {
+      "name": "林徽因",
+      "uuid": -6,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 14,
+      "x": 1327.80813810668,
+      "y": -377.2488544557168,
+      "vy": -0.007926323934461951,
+      "vx": 0.007367708677835148
+    },
+    {
+      "name": "陆小曼",
+      "uuid": -7,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 15,
+      "x": 1287.6708373091294,
+      "y": -256.8443760837734,
+      "vy": -0.006308440101837894,
+      "vx": 0.007902766710847553
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -8,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 16,
+      "x": 987.8733419088214,
+      "y": 2409.4440169557242,
+      "vy": 0.00826601104609587,
+      "vx": 0.0027603159752085976
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -9,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 17,
+      "x": -740.6528071037226,
+      "y": 494.67269336195136,
+      "vy": 0.0009798716424156042,
+      "vx": -0.00967653859904874
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -10,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 18,
+      "x": 736.6801494438063,
+      "y": 608.4066058082345,
+      "vy": 0.0065412885813994626,
+      "vx": 0.008356187425240804
+    },
+    {
+      "name": "梁思成",
+      "uuid": -11,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 19,
+      "x": 716.5187476831165,
+      "y": 488.27167579309827,
+      "vy": 0.005105732478776179,
+      "vx": 0.008024982053433083
+    },
+    {
+      "name": "林徽因",
+      "uuid": -12,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 20,
+      "x": 842.8327873255702,
+      "y": 508.7595440063554,
+      "vy": 0.005559993954420772,
+      "vx": 0.008673422711179634
+    },
+    {
+      "name": "清华大学",
+      "uuid": -13,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": 287.0676068041515,
+      "fy": 247.1882747354964,
+      "r": 30,
+      "index": 21,
+      "x": 287.0676068041515,
+      "y": 247.1882747354964,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "清华大学",
+      "uuid": -14,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": 287.0676068041515,
+      "fy": 247.1882747354964,
+      "r": 30,
+      "index": 22,
+      "x": 287.0676068041515,
+      "y": 247.1882747354964,
+      "vy": 0,
+      "vx": 0
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": -1,
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -2,
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -3,
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": -4,
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -5,
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -6,
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -7,
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": -8,
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": -9,
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -10,
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -11,
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -12,
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": -13,
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -14,
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 87,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 380.0191755361898,
+      "y": 513.8929078915166,
+      "vy": 0.004073756020067036,
+      "vx": -0.0014760473760381863
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 479.18949145665056,
+      "y": 522.360899243739,
+      "vy": 0.0005252806154883426,
+      "vx": 0.0009537265071115875
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 565.8522908178268,
+      "y": 557.8234393965048,
+      "vy": 0.000007805227028798849,
+      "vx": 0.0022595336797977357
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 538.0096523542535,
+      "y": 478.849159205388,
+      "vy": -0.0003166666543923582,
+      "vx": -0.0008250418224181476
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 294.7823642026031,
+      "y": 502.1299920984798,
+      "vy": 0.010141090461892582,
+      "vx": -0.003292277478555159
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 349.93915618714425,
+      "y": 436.87783461784596,
+      "vy": 0.004824907202933504,
+      "vx": -0.006061716092034437
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 460.522087119081,
+      "y": 583.6555450514779,
+      "vy": -0.00004237376360917561,
+      "vx": -0.0032950607156730792
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 619.0676068041515,
+      "y": 403.1882747354964,
+      "vy": 0.0005976449631632251,
+      "vx": -0.0004887220214965061
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 668.609409714865,
+      "y": 332.495311459401,
+      "vy": 0.0035522557772872908,
+      "vx": 0.003459798084833641
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 88,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 481.9937265546368,
+      "y": 603.7038532499987,
+      "vy": -0.02833721848062453,
+      "vx": -0.007200154574726071
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 474.3367904752189,
+      "y": 450.63972535006246,
+      "vy": -0.029396770168998665,
+      "vx": -0.01075281912669966
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 429.51448232003037,
+      "y": 378.6830670858351,
+      "vy": -0.029202021733566997,
+      "vx": -0.01268989601363451
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 414.34399449870926,
+      "fy": 273.16797716364573,
+      "r": 30,
+      "index": 3,
+      "x": 414.34399449870926,
+      "y": 273.16797716364573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 523.5731833346497,
+      "y": 700.7922135812189,
+      "vy": -0.027827978519534686,
+      "vx": -0.003979830526023719
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 460.36112816026895,
+      "y": 697.1575419879857,
+      "vy": -0.02540178354663781,
+      "vx": -0.004478322371405004
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 421.80257725995295,
+      "y": 493.4242648932214,
+      "vy": -0.027818667528127703,
+      "vx": -0.009860089055233962
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 533.2452741100041,
+      "y": 339.69842179846756,
+      "vy": -0.03092759193985558,
+      "vx": -0.010726986478536536
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 616.748612793109,
+      "y": 393.72519027214713,
+      "vy": -0.0286879594949606,
+      "vx": -0.01115889652920464
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 89,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 262.6491784174872,
+      "y": 134.2620573027278,
+      "vy": -0.006177239988425015,
+      "vx": 0.010370450028085745
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 506.2683015558642,
+      "y": 215.13571933499435,
+      "vy": -0.019023891630151595,
+      "vx": 0.01591537022453759
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 309.42805569056213,
+      "y": 385.4717079269797,
+      "vy": 0.005863995382060731,
+      "vx": 0.0032378090429983062
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 414.34399449870926,
+      "fy": 273.16797716364573,
+      "r": 30,
+      "index": 3,
+      "x": 414.34399449870926,
+      "y": 273.16797716364573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 1109.7544424907576,
+      "y": 913.3550518923478,
+      "vy": 0.008866344605245048,
+      "vx": 0.01580685791562858
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 741.5277235080592,
+      "y": 929.5973527042772,
+      "vy": 0.01670122068425864,
+      "vx": 0.005865153896472864
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 219.78716914916936,
+      "y": 301.1207344640048,
+      "vy": -0.0031375135727310863,
+      "vx": 0.0007773950748455036
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 789.5228238915734,
+      "y": 1972.4415096314276,
+      "vy": 0.010790752154900413,
+      "vx": 0.0020008173693800116
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 666.9652013970145,
+      "y": 556.8228101607107,
+      "vy": 0.010845507575469805,
+      "vx": 0.019914757734506454
+    },
+    {
+      "name": "梁思成",
+      "uuid": -1,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 9,
+      "x": 161.56943429018705,
+      "y": 76.7706094420592,
+      "vy": -0.01146575107661749,
+      "vx": 0.012504659480757435
+    },
+    {
+      "name": "梁思成",
+      "uuid": -2,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 10,
+      "x": 257.3562695222176,
+      "y": 467.41550171845023,
+      "vy": 0.004472052453936057,
+      "vx": -0.0020565752315249244
+    },
+    {
+      "name": "林徽因",
+      "uuid": -3,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 414.34399449870926,
+      "fy": 273.16797716364573,
+      "r": 30,
+      "index": 11,
+      "x": 414.34399449870926,
+      "y": 273.16797716364573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "林徽因",
+      "uuid": -4,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 414.34399449870926,
+      "fy": 273.16797716364573,
+      "r": 30,
+      "index": 12,
+      "x": 414.34399449870926,
+      "y": 273.16797716364573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "梁思成",
+      "uuid": -5,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 13,
+      "x": 414.8107092917064,
+      "y": 368.5489900573498,
+      "vy": 0.012785362636399098,
+      "vx": 0.005577518340746752
+    },
+    {
+      "name": "林徽因",
+      "uuid": -6,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 414.34399449870926,
+      "fy": 273.16797716364573,
+      "r": 30,
+      "index": 14,
+      "x": 414.34399449870926,
+      "y": 273.16797716364573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": -7,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 15,
+      "x": 191.21744846170864,
+      "y": 94.74040987206543,
+      "vy": -0.012546790718614705,
+      "vx": 0.013363286971397893
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -8,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 16,
+      "x": 1178.5006465896531,
+      "y": 936.2510070245785,
+      "vy": 0.00875595875818531,
+      "vx": 0.01646910016955585
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -9,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 17,
+      "x": 804.0210491484439,
+      "y": 889.5259774451252,
+      "vy": 0.01601284094311049,
+      "vx": 0.006136708474353055
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -10,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 18,
+      "x": 128.440799734686,
+      "y": 289.45945777212887,
+      "vy": -0.00813355463875026,
+      "vx": -0.004886353031604771
+    },
+    {
+      "name": "梁思成",
+      "uuid": -11,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 19,
+      "x": 124.09763289691605,
+      "y": 344.60234810732436,
+      "vy": 0.00043535175542833913,
+      "vx": 0.005832013707538568
+    },
+    {
+      "name": "林徽因",
+      "uuid": -12,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 414.34399449870926,
+      "fy": 273.16797716364573,
+      "r": 30,
+      "index": 20,
+      "x": 414.34399449870926,
+      "y": 273.16797716364573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "清华大学",
+      "uuid": -13,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 21,
+      "x": 712.5221098652768,
+      "y": 495.52157993716787,
+      "vy": 0.011224302387208814,
+      "vx": 0.020995241810767545
+    },
+    {
+      "name": "清华大学",
+      "uuid": -14,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 22,
+      "x": 482.0729084005851,
+      "y": 331.9345951631658,
+      "vy": 0.00536812142971865,
+      "vx": 0.031080624727823553
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": -1,
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -2,
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -3,
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": -4,
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -5,
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -6,
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -7,
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": -8,
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": -9,
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -10,
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -11,
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -12,
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": -13,
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -14,
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 90,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 217.83280120818165,
+      "y": 500.05018985285113,
+      "vy": 0.012954826409373964,
+      "vx": 0.005075564344426356
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 500.5412774182709,
+      "y": 473.6780728250135,
+      "vy": 0.01249515920069938,
+      "vx": 0.0038262129404432453
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(112,211,189)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 126.36636511583073,
+      "y": 160.77250388563942,
+      "vy": 0.01404621197427735,
+      "vx": -0.02650453547469333
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 414.34399449870926,
+      "fy": 273.16797716364573,
+      "r": 30,
+      "index": 3,
+      "x": 414.34399449870926,
+      "y": 273.16797716364573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 1489.7151059413434,
+      "y": 237.97474355801444,
+      "vy": -0.0019180156942415747,
+      "vx": 0.011892372101675895
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(127,127,213)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 738.678249332761,
+      "y": 885.5843554820266,
+      "vy": 0.010356690154440733,
+      "vx": 0.014274379982990346
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(255,131,115)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 209.24389216827637,
+      "y": 1012.74167575466,
+      "vy": 0.013735190862211285,
+      "vx": 0.003031562322823137
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 282.61849762436213,
+      "y": 1798.5760030845115,
+      "vy": 0.01341026096777736,
+      "vx": -0.0011801916413297254
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 996.9490389164231,
+      "y": -548.2372707601972,
+      "vy": -0.010661097726432108,
+      "vx": 0.005324951963476943
+    },
+    {
+      "name": "梁思成",
+      "uuid": -1,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 9,
+      "x": 160.80485166890386,
+      "y": 433.2304300357361,
+      "vy": 0.012353678216896693,
+      "vx": 0.006499076106776449
+    },
+    {
+      "name": "梁思成",
+      "uuid": -2,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 10,
+      "x": 186.37567727328334,
+      "y": 70.38898344563569,
+      "vy": 0.015937793907786185,
+      "vx": -0.03618395584850858
+    },
+    {
+      "name": "林徽因",
+      "uuid": -3,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 59.15937459514481,
+      "fy": 311.47217638239573,
+      "r": 30,
+      "index": 11,
+      "x": 59.15937459514481,
+      "y": 311.47217638239573,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "林徽因",
+      "uuid": -4,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 428.27279698894364,
+      "fy": 527.3687828277082,
+      "r": 30,
+      "index": 12,
+      "x": 428.27279698894364,
+      "y": 527.3687828277082,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "梁思成",
+      "uuid": -5,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 13,
+      "x": 481.53117168973233,
+      "y": 207.79400495632805,
+      "vy": 0.008628950830281208,
+      "vx": 0.0004732884400627961
+    },
+    {
+      "name": "林徽因",
+      "uuid": -6,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 337.735535026053,
+      "fy": 555.2263267730207,
+      "r": 30,
+      "index": 14,
+      "x": 337.735535026053,
+      "y": 555.2263267730207,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": -7,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(249,198,44)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 15,
+      "x": 129.24410729465265,
+      "y": 499.02623079683957,
+      "vy": 0.014903534242366349,
+      "vx": 0.004755730615771823
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -8,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 16,
+      "x": 1559.9649791836,
+      "y": 258.1947480421657,
+      "vy": -0.0013473590301899053,
+      "vx": 0.0123613722530497
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -9,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 17,
+      "x": 792.7852825164174,
+      "y": 835.4862391895953,
+      "vy": 0.00941088409133301,
+      "vx": 0.01422868919088257
+    },
+    {
+      "name": "徐志摩",
+      "uuid": -10,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(127,127,213)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 18,
+      "x": 137.2417848031151,
+      "y": 972.8076676111014,
+      "vy": 0.0138574463114492,
+      "vx": 0.0024053763486029446
+    },
+    {
+      "name": "梁思成",
+      "uuid": -11,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(125,213,255)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 19,
+      "x": 138.2227637221654,
+      "y": 1055.730996140827,
+      "vy": 0.0166344471787058,
+      "vx": 0.004556317976668235
+    },
+    {
+      "name": "林徽因",
+      "uuid": -12,
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(234,145,176)",
+      "shape": "triangle",
+      "fx": 306.39572179363114,
+      "fy": 987.0194481109113,
+      "r": 30,
+      "index": 20,
+      "x": 306.39572179363114,
+      "y": 987.0194481109113,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "清华大学",
+      "uuid": -13,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 21,
+      "x": 1022.2112686575972,
+      "y": -616.7249576465023,
+      "vy": -0.011285697076211751,
+      "vx": 0.005365989329343001
+    },
+    {
+      "name": "清华大学",
+      "uuid": -14,
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(112,211,189)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 22,
+      "x": 415.80268847803006,
+      "y": 177.6184541783938,
+      "vy": 0.009005879303174006,
+      "vx": -0.001491265917139159
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": -1,
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -2,
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": -3,
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": -4,
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -5,
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -6,
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": -7,
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": -8,
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": -9,
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -10,
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -11,
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": -12,
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": -13,
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": -14,
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 91,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 92,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 93,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 94,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 95,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 615.6859612612737,
+      "y": 466.3563036503693,
+      "vy": 1.0076281204082165,
+      "vx": 0.18416051124534802
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 777.4862260423731,
+      "y": 416.43415390680076,
+      "vy": 0.24246854668851778,
+      "vx": -0.03731740353253122
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 899.6359792301712,
+      "y": 439.85647970834657,
+      "vy": -0.47329149650455643,
+      "vx": 0.17624774716334207
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 842.1449571630858,
+      "y": 343.95883725636406,
+      "vy": -0.3800666465145058,
+      "vx": -0.6610101907601479
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 505.937392063867,
+      "y": 494.32769367150433,
+      "vy": 2.4799093085051536,
+      "vx": 0.40592011581585563
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 546.7616394637513,
+      "y": 390.5838350899265,
+      "vy": 1.4586302727041456,
+      "vx": -0.7035350057394278
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 741.3197086615448,
+      "y": 497.2798842431608,
+      "vy": 0.37535549765076276,
+      "vx": 0.1611031976290863
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 7,
+      "x": 956.3967477861294,
+      "y": 232.71526268924416,
+      "vy": -0.2946772546796911,
+      "vx": -0.18458461902384132
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1026.6114790724976,
+      "y": 143.1579839522186,
+      "vy": 0.25447781967687044,
+      "vx": 0.6391063918975322
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 96,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 916.6287250135467,
+      "y": 637.534835282478,
+      "vy": -0.012103218792044125,
+      "vx": -0.0038672233596314803
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 1,
+      "x": 893.9653641205082,
+      "y": 482.68110689622813,
+      "vy": -0.00998026298404007,
+      "vx": -0.013906724508275318
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 841.198570522068,
+      "y": 399.4450450574741,
+      "vy": -0.010072345382470989,
+      "vx": -0.014421773744502056
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 727.9124727086105,
+      "y": 437.9456448886014,
+      "vy": -0.007481474259823448,
+      "vx": -0.01216886464644683
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 976.3004684131876,
+      "y": 730.3440958294868,
+      "vy": -0.016163117366606753,
+      "vx": 0.0053433297586174995
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 879.6068939191146,
+      "y": 728.831881910077,
+      "vy": -0.006431082063374456,
+      "vx": 0.0044111546594675375
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 824.1310465452367,
+      "y": 552.3608230167806,
+      "vy": -0.005617683254701658,
+      "vx": -0.011368485606087745
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": 414.63236680043474,
+      "fy": 246.2595435785443,
+      "r": 30,
+      "index": 7,
+      "x": 414.63236680043474,
+      "y": 246.2595435785443,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 428.5562444361739,
+      "y": 169.75468545396194,
+      "vy": -0.01368927068169098,
+      "vx": -0.013934175899109388
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 97,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 739.2744715853589,
+      "y": 641.3377602003665,
+      "vy": -1.2490536558664698,
+      "vx": -0.8026423359934678
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": 447.34028916413934,
+      "fy": 223.70578842353297,
+      "r": 30,
+      "index": 1,
+      "x": 447.34028916413934,
+      "y": 223.70578842353297,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 611.0718463829708,
+      "y": 357.71566648013277,
+      "vy": -1.3847246074529793,
+      "vx": -1.0057157029162591
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 3,
+      "x": 739.7996358648069,
+      "y": 416.451181998362,
+      "vy": -1.3600789712622736,
+      "vx": -0.9646144576823593
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 829.0855144299813,
+      "y": 743.9830045832107,
+      "vy": -1.177539567823206,
+      "vx": -0.735786076516212
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 755.8201731594302,
+      "y": 761.0286698616475,
+      "vy": -1.1669257823295558,
+      "vx": -0.7418229238945064
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 644.6681675540244,
+      "y": 501.082707371011,
+      "vy": -1.302886307465464,
+      "vx": -0.9023588856865632
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": 1009.6323668004347,
+      "fy": 318.2595435785443,
+      "r": 30,
+      "index": 7,
+      "x": 1009.6323668004347,
+      "y": 318.2595435785443,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 1118.3584078815247,
+      "y": 409.9111939209367,
+      "vy": -1.3815345143671804,
+      "vx": -0.9387259378672853
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 98,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 811.6483809466065,
+      "y": 656.4534075315379,
+      "vy": -3.196876982341165,
+      "vx": 1.2718293983850775
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": 447.34028916413934,
+      "fy": 223.70578842353297,
+      "r": 30,
+      "index": 1,
+      "x": 447.34028916413934,
+      "y": 223.70578842353297,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 945.9027351685039,
+      "y": 254.52114225597842,
+      "vy": -3.621151203405475,
+      "vx": 1.1733613695220426
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": 1461.1287457009535,
+      "fy": 100.75965171773652,
+      "r": 30,
+      "index": 3,
+      "x": 1461.1287457009535,
+      "y": 100.75965171773652,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 792.3426338271196,
+      "y": 821.7683592515594,
+      "vy": -2.9849604317323934,
+      "vx": 1.1883170613274885
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 740.837605913096,
+      "y": 780.5702314367097,
+      "vy": -3.0187434126593042,
+      "vx": 1.199698975055797
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 896.5030970696586,
+      "y": 428.0159718868798,
+      "vy": -3.4132902944639296,
+      "vx": 1.2247884685939068
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": 452.63236680043474,
+      "fy": 459.2595435785443,
+      "r": 30,
+      "index": 7,
+      "x": 452.63236680043474,
+      "y": 459.2595435785443,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": 366.0437062950987,
+      "y": 629.689844646354,
+      "vy": -3.5841407068765956,
+      "vx": 1.3353955485159885
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+},{
+  "_id": 99,
+  "nodes": [
+    {
+      "name": "徐志摩",
+      "uuid": "1",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/de94a8ed72bbe28f.jpg",
+      "type": "人物",
+      "color": "rgb(252,33,44)",
+      "shape": "piccircle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 0,
+      "x": 345.4535721569832,
+      "y": 853.6961902122105,
+      "vy": -0.36806075427427315,
+      "vx": 0.34775870246788126
+    },
+    {
+      "name": "梁思成",
+      "uuid": "2",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/b5d03b95d606ad92.jpg",
+      "type": "人物",
+      "color": "rgb(345,0,333)",
+      "shape": "diamond",
+      "fx": 447.34028916413934,
+      "fy": 223.70578842353297,
+      "r": 30,
+      "index": 1,
+      "x": 447.34028916413934,
+      "y": 223.70578842353297,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "金岳霖",
+      "uuid": "3",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/4408d74d7667839c.jpg",
+      "type": "人物",
+      "color": "rgb(34,2,909)",
+      "shape": "star",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 2,
+      "x": 850.0762703091953,
+      "y": 312.12202227175413,
+      "vy": -0.4165711105059647,
+      "vx": 0.37661202543017774
+    },
+    {
+      "name": "林徽因",
+      "uuid": "4",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/77af88cd0b16b3c5.jpg",
+      "type": "人物",
+      "color": "rgb(93,1,222)",
+      "shape": "triangle",
+      "fx": 1461.1287457009535,
+      "fy": 100.75965171773652,
+      "r": 30,
+      "index": 3,
+      "x": 1461.1287457009535,
+      "y": 100.75965171773652,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "陆小曼",
+      "uuid": "5",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/6c750693ad07c91e.jpg",
+      "type": "人物",
+      "color": "rgb(345,88,99)",
+      "shape": "downtriangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 4,
+      "x": 186.60015347561028,
+      "y": 1043.925283231219,
+      "vy": -0.34428652648679386,
+      "vx": 0.3259069009125816
+    },
+    {
+      "name": "《再别康桥》",
+      "uuid": "6",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/eab776ea80100c77.jpg",
+      "type": "作品",
+      "color": "rgb(930,80,7)",
+      "shape": "roundrectangle",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 5,
+      "x": 208.3827824574101,
+      "y": 987.4242046976891,
+      "vy": -0.3462851484194919,
+      "vx": 0.32997315111756603
+    },
+    {
+      "name": "梁启超",
+      "uuid": "7",
+      "imgsrc": "https://ftp.bmp.ovh/imgs/2021/03/7cfdb35f29b7d801.jpg",
+      "type": "人物",
+      "color": "rgb(367,9,9)",
+      "shape": "square",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 6,
+      "x": 635.7166444227547,
+      "y": 559.1432703810376,
+      "vy": -0.39217666217283076,
+      "vx": 0.3607419979124996
+    },
+    {
+      "name": "清华大学",
+      "uuid": "8",
+      "imgsrc": "",
+      "type": "地点",
+      "color": "rgb(834,22,33)",
+      "shape": "circle",
+      "fx": 187.63236680043474,
+      "fy": 56.25954357854431,
+      "r": 30,
+      "index": 7,
+      "x": 187.63236680043474,
+      "y": 56.25954357854431,
+      "vy": 0,
+      "vx": 0
+    },
+    {
+      "name": "蔡元培",
+      "uuid": "9",
+      "imgsrc": "",
+      "type": "人物",
+      "color": "rgb(34,1,222)",
+      "shape": "diamond",
+      "fx": null,
+      "fy": null,
+      "r": 30,
+      "index": 8,
+      "x": -10.3094865962207,
+      "y": 246.9528952114227,
+      "vy": -0.41196472892448804,
+      "vx": 0.3826720539963037
+    }
+  ],
+  "links": [
+    {
+      "sourceid": "1",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "1"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "2",
+      "name": "情敌",
+      "uuid": "2"
+    },
+    {
+      "sourceid": "3",
+      "targetid": "4",
+      "name": "默默陪伴",
+      "uuid": "3"
+    },
+    {
+      "sourceid": "2",
+      "targetid": "4",
+      "name": "夫妻",
+      "uuid": "4"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "2",
+      "name": "夫妻",
+      "uuid": "5"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "4",
+      "name": "爱慕",
+      "uuid": "6"
+    },
+    {
+      "sourceid": "1",
+      "targetid": "5",
+      "name": "夫妻",
+      "uuid": "7"
+    },
+    {
+      "sourceid": "5",
+      "targetid": "1",
+      "name": "夫妻",
+      "uuid": "8"
+    },
+    {
+      "sourceid": "6",
+      "targetid": "1",
+      "name": "代表作",
+      "uuid": "9"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "1",
+      "name": "老师",
+      "uuid": "10"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "2",
+      "name": "父亲",
+      "uuid": "11"
+    },
+    {
+      "sourceid": "7",
+      "targetid": "4",
+      "name": "公公",
+      "uuid": "12"
+    },
+    {
+      "sourceid": "9",
+      "targetid": "8",
+      "name": "校长",
+      "uuid": "13"
+    },
+    {
+      "sourceid": "4",
+      "targetid": "8",
+      "name": "校友",
+      "uuid": "14"
+    }
+  ],
+  "_class": "com.example.backend.Model.Graph"
+}]

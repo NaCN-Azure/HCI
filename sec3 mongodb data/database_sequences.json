@@ -1,0 +1,13 @@
+[{
+  "_id": "graphs_sequence",
+  "seq": 100
+},{
+  "_id": "groups_sequence",
+  "seq": 37
+},{
+  "_id": "brands_sequence",
+  "seq": 317
+},{
+  "_id": "ranks_sequence",
+  "seq": 20
+}]
